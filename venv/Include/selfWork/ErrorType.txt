@@ -1,0 +1,2 @@
+ValueError: setting an array element with a sequence. 原因:这个问题主要出现在于要将list转换为numpy.array做一些数学计算时候，出现list的某一个维度上元素的个数不一致，就会转换失败。这个问题是由于数组append的时候，前后数组 shape不一致导致的，必须一致的才能append.解决方法；请确保list的shape没问题，他能够有正常的shape表示，也就是是一个矩阵而不是一个序列
+

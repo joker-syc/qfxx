@@ -1,0 +1,60 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2019/8/1 0001 15:45
+# @Author  : joker-syc
+# @Site    : 
+# @File    : 多线程.py
+# @Software: PyCharm
+
+import urllib.request
+import ssl
+import threading
+import os
+import time
+import re
+import csv
+
+pagedata=[]
+
+def getdata(url):
+    context = ssl._create_unverified_context()
+    header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"}
+    requset = urllib.request.Request(url, headers=header)
+    response = urllib.request.urlopen(requset, context=context)
+    data = response.read()
+
+    return data.decode()
+
+
+def getarea(url):
+    data = getdata(url)
+    quyuList = re.findall(r'data-type="district" class="filter__item--level2  ">.*?<a href="(.*?)"  >(.*?)</a>',data,re.S)
+    print(quyuList)
+    return dict(quyuList)
+
+
+# def getareadata(path,area):
+#     data = getdata(path)
+#     resList = re.findall(r'<p class="content__list--item--title twoline">.*?<a.*?>(.*?)</a>.*?<em>(.*?)</em>',data,re.S)
+#     # print(resList)
+#     with open(area+".csv","w",encoding="utf-8") as f:
+#         csv_writer = csv.writer(f)
+#         csv_writer.writerows(resList)
+
+
+if __name__ == '__main__':
+    t1=time.time()
+    url = "https://sz.lianjia.com/zufang/"
+    url2 = "https://sz.lianjia.com"
+    # os.mkdir("file")
+    # os.chdir("file")
+    areadict = getarea(url)
+    # print(areadict)
+    # path ="https://sz.lianjia.com/zufang/futianqu/"
+    # t = threading.Thread(target=getareadata, args=(path, '福田'))
+    # t.start()
+    # for areapath,area in areadict.items():
+    #     path = url2+areapath
+    #     t = threading.Thread(target=getareadata,args=(path,area))
+    #     t.start()
+    print(time.time()-t1)
