@@ -1,7 +1,740 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b97569-d85b-4d2f-8e41-b360b39b6a5f" name="Default Changelist" comment="" />
+    <list default="true" id="86b97569-d85b-4d2f-8e41-b360b39b6a5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/dd.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/MathJax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/blog-common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/blog-common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/bundle-BuildtoWin-mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/bundle-BuildtoWin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/gpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/jquery-2.2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day02/aim/python(qfxx)/【Python】Python中6个序列的内置类型？ - 般若波罗蜜多 - 博客园_files/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/光明区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/光明区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/光明区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/光明区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/光明区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/光明区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/南山区/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/坪山区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/宝安区/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/盐田区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/福田区/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/罗湖区/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙华区/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/day19/file/龙岗区/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/11.序列化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/12.json模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/2. 装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/2. 高阶函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/2.json模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/2.偏函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/2.时间模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/2.正则常用函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/3.TCP客户端编程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/3.datetime模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/3.单例模式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/3.字典的遍历.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/3.高阶函数2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/4.TCP服务器端.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/4.创建线程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/4.回调函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/4.析构函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/5.TCP测试客户端.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/5.calendar模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/5.万能函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/5.字符串常用函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/5.文档测试.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/5.返回函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/6. 创建线程3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/6.UDP服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/6.列表生成式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/6.匿名函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/6.多态.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/6.闭包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.UDP客户端.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.zip函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.函数的重写.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.列表常用函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.可迭代对象.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.线程常用的属性以及方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/7.闭包2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/8.发送邮件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/8.字符串续集.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/8.线程冲突.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/8.装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/8.运算重载.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/8.递归函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/9.os模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/9.复杂点装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/md5加密.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/returnStudy/mro属性.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/datasets/test_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/datasets/train_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630153721.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630155809.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630180747.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630180810.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630180839.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180813112914.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/images/my_image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/saveData/2019-07-22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/saveData/2019-07-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/saveData/2019-07-24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/saveData/2019-07-25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/saveData/2019-07-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/saveData/2019Fri_Jul.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +744,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py">
+        <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="220">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -33,6 +766,9 @@
     <dirStrings>
       <dir>C:\Users\Administrator\PycharmProjects\workhard\venv\Include\day15</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -86,15 +822,15 @@
         <option value="$PROJECT_DIR$/venv/Include/selfWork/algorithm/全排列问题的解法.py" />
         <option value="$PROJECT_DIR$/venv/Include/selfWork/ErrorType.txt" />
         <option value="$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py" />
-        <option value="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" />
         <option value="$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -119,6 +855,13 @@
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="workhard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workhard" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="selfWork" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -127,6 +870,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/Program/python/Lib/site-packages/pyqt5_tools/designer.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -154,7 +898,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testConnectRedis">
+  <component name="RunManager" selected="Python.tryToConnectMysql">
     <configuration name="蓄水池抽样算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workhard" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,28 +957,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfWork/algorithm/全排列问题的解法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workhard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/day02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/day02/dd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,20 +1031,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tryToConnectMysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workhard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/selfWork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.dd" />
       <item itemvalue="Python.lab4" />
       <item itemvalue="Python.蓄水池抽样算法" />
       <item itemvalue="Python.try1" />
       <item itemvalue="Python.testConnectRedis" />
+      <item itemvalue="Python.tryToConnectMysql" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tryToConnectMysql" />
         <item itemvalue="Python.testConnectRedis" />
         <item itemvalue="Python.try1" />
         <item itemvalue="Python.蓄水池抽样算法" />
         <item itemvalue="Python.lab4" />
-        <item itemvalue="Python.dd" />
       </list>
     </recent_temporary>
   </component>
@@ -381,11 +1125,12 @@
       <workItem from="1565660234572" duration="7248000" />
       <workItem from="1565752404730" duration="3079000" />
       <workItem from="1565851582054" duration="2647000" />
+      <workItem from="1565916430169" duration="9083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296368000" />
+    <option name="totallyTimeSpent" value="305451000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -397,14 +1142,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.395574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19772118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49396783" visible="true" weight="0.35622317" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49396783" visible="true" weight="0.3555241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32390383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -439,6 +1184,7 @@
     <SUITE FILE_PATH="coverage/workhard$Man_and_Machine.coverage" NAME="Man_and_Machine Coverage Results" MODIFIED="1564217800766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork" />
     <SUITE FILE_PATH="coverage/workhard$7_zip.coverage" NAME="7.zip函数 Coverage Results" MODIFIED="1564717434684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/returnStudy" />
     <SUITE FILE_PATH="coverage/workhard$3_.coverage" NAME="3.单例模式 Coverage Results" MODIFIED="1564729875232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/qfxx/day13" />
+    <SUITE FILE_PATH="coverage/workhard$tryToConnectMysql.coverage" NAME="tryToConnectMysql Coverage Results" MODIFIED="1565937534721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork" />
     <SUITE FILE_PATH="coverage/workhard$dd.coverage" NAME="dd Coverage Results" MODIFIED="1565264662169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day02" />
     <SUITE FILE_PATH="coverage/workhard$server.coverage" NAME="server Coverage Results" MODIFIED="1565179217605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day18" />
     <SUITE FILE_PATH="coverage/workhard$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1565681321099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfStudy/numpy" />
@@ -453,78 +1199,13 @@
     <SUITE FILE_PATH="coverage/workhard$zuoye__1_.coverage" NAME="zuoye (1) Coverage Results" MODIFIED="1564484299307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day15" />
     <SUITE FILE_PATH="coverage/workhard$1_.coverage" NAME="1.作业 Coverage Results" MODIFIED="1564628042960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/qfxx/day18" />
     <SUITE FILE_PATH="coverage/workhard$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1565264682131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/ui" />
-    <SUITE FILE_PATH="coverage/workhard$testConnectRedis.coverage" NAME="testConnectRedis Coverage Results" MODIFIED="1565853660415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork" />
+    <SUITE FILE_PATH="coverage/workhard$testConnectRedis.coverage" NAME="testConnectRedis Coverage Results" MODIFIED="1565922235662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork" />
     <SUITE FILE_PATH="coverage/workhard$13_zuoye.coverage" NAME="13.zuoye Coverage Results" MODIFIED="1564663843647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day19" />
     <SUITE FILE_PATH="coverage/workhard$zuoye.coverage" NAME="zuoye Coverage Results" MODIFIED="1564576520529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day18" />
     <SUITE FILE_PATH="coverage/workhard$.coverage" NAME="全排列问题的解法 Coverage Results" MODIFIED="1565355994652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork/algorithm" />
     <SUITE FILE_PATH="coverage/workhard$Jsq.coverage" NAME="Jsq Coverage Results" MODIFIED="1565235759909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/ui" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/1.作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="31" column="122" selection-start-line="31" selection-start-column="122" selection-end-line="31" selection-end-column="122" />
-          <folding>
-            <element signature="e#160#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/qfxx/day18/8.协程实现方式二.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#68#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/file/光明区.csv" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/file/光明区/5.html" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/file/光明区/12.html" />
-    <entry file="file://$USER_HOME$/Desktop/qfxx/day18/10.协程的实现方式四.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/2985759264/FileRecv/day44.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/file/大鹏新区/2.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-92" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/多进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-          <folding>
-            <element signature="e#158#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/day19/file/宝安区/2.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/3.高阶函数2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -777,25 +1458,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day03/01-mysql/01-mysql.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/datasets/test_catvnoncat.h5">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630153721.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180630180810.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/images/TIM图片20180813112914.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Program/python/Lib/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1425" column="8" selection-start-line="1425" selection-start-column="8" selection-end-line="1425" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="374">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day03/01-mysql/01-mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day04/redis/01-sample.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day04/redis/03-transaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day04/redis/04-subscribe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day04/redis/05-publish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qfxx/数据库学习/day04/redis/02-pool.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
         </state>
       </provider>
     </entry>
