@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86b97569-d85b-4d2f-8e41-b360b39b6a5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py">
+        <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/1.ndarray对象的创建.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            <state relative-caret-position="594">
+              <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -52,15 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/qfxx/day04/7.列表常用函数.py" />
-        <option value="$PROJECT_DIR$/venv/Include/selfWork/Reptiles.py" />
-        <option value="$PROJECT_DIR$/venv/Include/day14/test.py" />
-        <option value="$PROJECT_DIR$/venv/Include/day13/zuoye1.py" />
-        <option value="$PROJECT_DIR$/venv/Include/day12/cardMessage.txt" />
-        <option value="$PROJECT_DIR$/venv/Include/day12/zuoye.py" />
-        <option value="$PROJECT_DIR$/venv/Include/day15/A.txt" />
-        <option value="$PROJECT_DIR$/venv/Include/day15/B.txt" />
-        <option value="$PROJECT_DIR$/venv/Include/day04/test.py" />
         <option value="$PROJECT_DIR$/venv/Include/selfWork/1第一个人工智能程序/第一个人工智能程序.ipynb" />
         <option value="$PROJECT_DIR$/venv/Include/selfWork/Man_and_Machine.py" />
         <option value="$PROJECT_DIR$/venv/Include/day15/test.py" />
@@ -103,6 +94,15 @@
         <option value="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" />
         <option value="$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py" />
         <option value="$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/2.d.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/2.创建数组(以非ndarray方法创建).py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/3.从数值范围创建数组.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/4.数组的切片及索引.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/5.数组的高级索引---整数数组索引.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/数组的高级索引----布尔索引.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/6.数组的高级索引----布尔索引.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/7.数组的高级索引----花式索引.py" />
+        <option value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/1.ndarray对象的创建.py" />
       </list>
     </option>
   </component>
@@ -147,7 +147,7 @@
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
               <item name="selfStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="学习numpy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,18 +159,21 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Program/python/Lib/site-packages/pyqt5_tools/designer.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Include/selfStudy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Include\selfStudy\学习numpy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Include\selfStudy" />
       <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Include\day19" />
       <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Include\day18" />
       <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Include\returnStudy" />
       <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Include\day16" />
-      <recent name="C:\Users\Administrator\PycharmProjects\workhard\venv\Lib\site-packages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,8 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try1">
-    <configuration name="蓄水池抽样算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="1.ndarray对象的创建" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workhard" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +197,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/selfWork/algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfWork/algorithm/蓄水池抽样算法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/1.ndarray对象的创建.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,108 +255,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workhard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/ui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/ui/lab4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testConnectRedis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workhard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/selfWork" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfWork/testConnectRedis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="try1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workhard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/selfStudy/numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tryToConnectMysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workhard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/selfWork" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/selfWork/tryToConnectMysql.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.lab4" />
-      <item itemvalue="Python.蓄水池抽样算法" />
-      <item itemvalue="Python.try1" />
-      <item itemvalue="Python.testConnectRedis" />
-      <item itemvalue="Python.tryToConnectMysql" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.try1" />
-        <item itemvalue="Python.testConnectRedis" />
-        <item itemvalue="Python.tryToConnectMysql" />
-        <item itemvalue="Python.蓄水池抽样算法" />
-        <item itemvalue="Python.lab4" />
+        <item itemvalue="Python.1.ndarray对象的创建" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +318,7 @@
       <workItem from="1565851582054" duration="2647000" />
       <workItem from="1565916430169" duration="12488000" />
       <workItem from="1565956042625" duration="4942000" />
-      <workItem from="1566002599115" duration="5282000" />
+      <workItem from="1566002599115" duration="10700000" />
     </task>
     <task id="LOCAL-00001" summary="删除了不必要的数据,新增了练习代码">
       <created>1565937701701</created>
@@ -430,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566002713826</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新了numpy的学习进程">
+      <created>1566010463497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566010463497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319080000" />
+    <option name="totallyTimeSpent" value="324498000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -447,13 +358,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20308311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49396783" visible="true" weight="0.23512748" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49396783" weight="0.23512748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32294616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -522,6 +434,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/workhard$Reptiles.coverage" NAME="Reptiles Coverage Results" MODIFIED="1564103728923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork" />
+    <SUITE FILE_PATH="coverage/workhard$1_ndarray.coverage" NAME="1.ndarray对象的创建 Coverage Results" MODIFIED="1566022949567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfStudy/学习numpy" />
     <SUITE FILE_PATH="coverage/workhard$5_.coverage" NAME="5.文档测试 Coverage Results" MODIFIED="1564384587260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/qfxx/day15/day15" />
     <SUITE FILE_PATH="coverage/workhard$Jsqc.coverage" NAME="Jsqc Coverage Results" MODIFIED="1565264647447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/ui" />
     <SUITE FILE_PATH="coverage/workhard$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1564470712834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day17" />
@@ -536,7 +449,7 @@
     <SUITE FILE_PATH="coverage/workhard$tryToConnectMysql.coverage" NAME="tryToConnectMysql Coverage Results" MODIFIED="1565937534721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfWork" />
     <SUITE FILE_PATH="coverage/workhard$dd.coverage" NAME="dd Coverage Results" MODIFIED="1565264662169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day02" />
     <SUITE FILE_PATH="coverage/workhard$server.coverage" NAME="server Coverage Results" MODIFIED="1565179217605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day18" />
-    <SUITE FILE_PATH="coverage/workhard$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1566009343986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfStudy/numpy" />
+    <SUITE FILE_PATH="coverage/workhard$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1566014212823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/selfStudy/numpy" />
     <SUITE FILE_PATH="coverage/workhard$6_.coverage" NAME="6.闭包 Coverage Results" MODIFIED="1564726439261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/returnStudy" />
     <SUITE FILE_PATH="coverage/workhard$3_TCP.coverage" NAME="3.TCP客户端编程 Coverage Results" MODIFIED="1564469212651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/qfxx/day16/day16" />
     <SUITE FILE_PATH="coverage/workhard$4_TCP.coverage" NAME="4.TCP服务器端 Coverage Results" MODIFIED="1565177059840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/day18" />
@@ -555,26 +468,6 @@
     <SUITE FILE_PATH="coverage/workhard$Jsq.coverage" NAME="Jsq Coverage Results" MODIFIED="1565235759909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/ui" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/6.匿名函数.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/2. 高阶函数.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/7.zip函数.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/8.装饰器.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/2. 装饰器.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/6.闭包.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/7.闭包2.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/9.os模块.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/5.calendar模块.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Include/returnStudy/2.时间模块.py" />
     <entry file="file://$USER_HOME$/Desktop/qfxx/day13/3.单例模式.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -799,10 +692,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/799198477/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/numpy/try1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="330">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program/python/Lib/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/2.d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/3.从数值范围创建数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/2.创建数组(以非ndarray方法创建).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/4.数组的切片及索引.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/5.数组的高级索引---整数数组索引.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/6.数组的高级索引----布尔索引.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/数组的高级索引----布尔索引.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="66" lean-forward="true" selection-start-line="8" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/7.数组的高级索引----花式索引.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/selfStudy/学习numpy/1.ndarray对象的创建.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
         </state>
       </provider>
     </entry>
