@@ -102,5 +102,32 @@ import numpy as np
 # a=np.arange(1,10,2,dtype=float)      #(start,stop,step)
 # print(a)
 
-a=np.linspace()
-print(a)
+# a=np.linspace(2,50,5,endpoint=False,retstep=True)          #(start,end,nun,endpoint,retstep,dtype)
+#                                    # (起始点,终止点,生成的等差数列的数量,True(默认)包括/False不包括,True显示间距/False(默认)不显示间距,ndarray数据类型)
+# print(a)
+# print(type(a))                     #当要显示间距时,a的数据类型就变成tuple,相应的参数在里面(不显示间距时,a是ndarray类型)
+# print(a[0][1])
+# print(a[1])
+
+# a=np.logspace(0,9,9,base=2,endpoint=False)       #使用方法与上面的类似,(start,end,nun,endpoint,base,dtype)
+#                                                         #(起始点=nun**base,终止点=nun**base,生成的等比数列的数量(默认为50),True(默认)包括/False不包括,底数base,ndarray数据类型)
+# print(a)
+
+# #切片对象可以通过内置的 slice 函数，并设置 start, stop 及 step 参数进行，从原数组中切割出一个新数组。
+# b=slice(1,5,2)
+# print(a[b])
+
+# print(a[::-1])
+
+# a = np.array([[1,2,3],[3,4,5],[4,5,6],[1,2,3]])
+# print(a)
+# print (a[...,1])   # 第2列元素
+# print (a[1,...])   # 第2行元素
+# print (a[...,1:])  # 第2列及剩下的所有元素
+
+# a = np.array([[1,2],[3,4,5],[4],[1,2]])      #当数组中的元素是不等长的时候,就没有列和行之分
+# print(a)
+# print (a[...,1])   # 第2列元素
+# print (a[1,...])   # 第2行元素
+# print (a[...,1:])  # 第2列及剩下的所有元素
+
