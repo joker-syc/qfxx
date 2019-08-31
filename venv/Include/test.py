@@ -42,3 +42,14 @@
 # aList.sort();
 # print("5.")
 # print (aList)
+
+# a=[1,2,3,[1,[2],3]]
+# b=a[::]
+# print(id(a))
+# print(id(a[3]))
+# print(id(a[3][1]))
+# print('')
+# print(id(b))
+# print(id(b[3]))
+# print(id(b[3][1]))       #当对列表切片时,索引都留空时,会返回一个列表的复制(仅对一维数组起作用,二维的还是沿用之前的地址)
+#                          #作用跟copy()差不多
